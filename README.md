@@ -6,6 +6,7 @@ Este projeto foi criado para automatizar os testes do site Blog do Agi utilizand
 
 A estrutura do projeto está organizada da seguinte forma:
 
+```
 projeto-agibank-cypress/
 │
 ├── cypress/
@@ -25,7 +26,7 @@ projeto-agibank-cypress/
 ├── cypress.config.js
 ├── package.json
 └── README.md
-
+```
 
 ## Dependências
 
